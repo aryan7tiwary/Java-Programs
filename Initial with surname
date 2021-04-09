@@ -14,7 +14,7 @@ public class short_name
 		
 		//Input from user
 		System.out.println("Enter the full name");
-		full_name=in.nextLine();	// Sanjeev Kumar Tiwary
+		full_name=in.nextLine();
 		
 		
 		
